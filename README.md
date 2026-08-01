@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nisreen Albzour 👋
 
-<!--
-**Nisreen91/Nisreen91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. researcher working on **Reliable and Trustworthy AI**, with interests in natural language processing and medical artificial intelligence.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reliable & Trustworthy AI
+- Probability Calibration
+- Uncertainty Quantification
+- Selective Prediction
+- Natural Language Processing
+- Medical AI
+- Deep Learning & Transformers
+
+## 📌 Current Research Projects
+
+### Emotion Imbalance & Reliability
+Comparison of BiLSTM and DistilBERT under different imbalance-handling strategies, with evaluation beyond accuracy using calibration and selective-prediction metrics.
+
+Repository: `emotion-imbalance-reliability`
+
+### BERT Calibration & Selective Prediction
+Reliability-aware BERT emotion classification using temperature scaling, uncertainty estimation, and selective prediction.
+
+Repository: `bert-calibration-selective-prediction`
+
+## 📚 Research Profiles
+
+- Google Scholar
+- ORCID
+- SSRN
+
+## 🛠️ Tools & Methods
+
+Python • PyTorch • TensorFlow • Transformers • Scikit-learn • Uncertainty Estimation • Calibration • Statistical Validation
